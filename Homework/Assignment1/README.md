@@ -36,6 +36,8 @@ $ pip install {module_name}
 $ deactivate
 
 
+
+
 Discussion of results:
 
 As of now most of the assignment is completed succesfully. However I was not able to find the number of channels in the images.
