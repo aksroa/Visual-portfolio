@@ -16,14 +16,22 @@ First of all a target image was selected while the path to the other images was 
 Cloning repo and installing dependencies
 
 To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:
+
 $ git clone https://github.com/aksroa/Visual-portfolio.git
+
 $ cd cds-visual
+
 $ bash ./create_vision_venv.sh
 
+
 If some of the libraries is not installed properly you can install these manually by running the following in the terminal:
+
 $ cd cds-visual
+
 $ source ./cv101/bin/activate
+
 $ pip install {module_name}
+
 $ deactivate
 
 Discussion of results:
