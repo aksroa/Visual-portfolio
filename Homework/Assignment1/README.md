@@ -10,15 +10,23 @@ Write a Python script which does the following:
 
 Methods:
 
-For this assignment a dataset consisting of images of 10 footballplayers have been used. Using indexing I have been able to get the height and width of the images, in addition to splitting them into four equal sized quadrants. This is later appended to empty lists I created before, and saved as a dataframe with the new filenames.                                                                                                  
-Cloning repo and installing dependencies                                                                                                        
-To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:                                          
+For this assignment a dataset consisting of images of 10 footballplayers have been used. Using indexing I have been able to get the height and width of the images, in addition to splitting them into four equal sized quadrants. This is later appended to empty lists I created before, and saved as a dataframe with the new filenames.   
+
+Cloning repo and installing dependencies      
+
+
+To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:     
+
+
 $ git clone https://github.com/aksroa/Visual-portfolio.git
 
 $ cd cds-visual
 
 $ bash ./create_vision_venv.sh                                                                                                                  
-If some of the libraries is not installed properly you can install these manually by running the following in the terminal:                    
+
+If some of the libraries is not installed properly you can install these manually by running the following in the terminal:                   
+
+
 $ cd cds-visual
 
 $ source cv101/bin/activate
