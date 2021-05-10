@@ -9,8 +9,8 @@ The repository includes the predefined assignments 1, 2, 3 and an undefined assi
 
 To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:
 
-$ git clone xxxx                                                  
-$ cd cds-visual                                                                                                                                                                    
+$ git clone https://github.com/aksroa/Visual-portfolio.git                                                  
+$ cd cds-visual                                                                                                                                                                
 $ bash ./create_vision_venv.sh
 
 
