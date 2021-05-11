@@ -22,8 +22,8 @@ $ git clone https://github.com/aksroa/Visual-portfolio.git
 
 $ cd cds-visual
 
-$ bash ./create_vision_venv.sh                                                                                                                                                                                                                                                                                                                                                                                                        
-If some of the libraries is not installed properly you can install these manually by running the following in the terminal:                   
+$ bash ./create_vision_venv.sh                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                           If some of the libraries is not installed properly you can install these manually by running the following in the terminal:                   
 
 
 $ cd cds-visual
