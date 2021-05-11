@@ -7,10 +7,6 @@ import sys
 
 sys.path.append(os.path.join(".."))
 
-#display utils.
-#from utils_ross.imutils import jimshow
-#from utils_ross.imutils import jimshow_channel
-
 import argparse
 
 def main(inpath):

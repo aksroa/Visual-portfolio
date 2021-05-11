@@ -19,4 +19,4 @@ $ pip install {module_name}
 $ deactivate
 
 Discussion of results:
-The basics of the assignment have been finished succesfully with some small errors. For example it can be seen that the final text consists of a few extra characters and additional blanc spaces, which should have been removed.
+The basics of the assignment have been finished succesfully with some small errors. For example it can be seen that the final text consists of a few extra characters and additional blanc spaces, which should have been removed. Furthermore I was not able to create a script which takes into account that different pictures need to be cropped differently in regards to the size of the image and where in the image, the text is located.
