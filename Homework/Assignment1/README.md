@@ -40,4 +40,4 @@ $ deactivate
 
 Discussion of results:
 
-As of now most of the assignment is completed succesfully. However I was not able to find the number of channels in the images.
+As of now most of the assignment is completed succesfully. However I was not able to find the number of channels in the images. The split images and the file containing the width, height and filename can be found in the src-folder.
