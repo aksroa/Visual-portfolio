@@ -36,4 +36,4 @@ $ deactivate
 
 Discussion of results:
 
-The assignment have been completed succesfully and the image wich is closest to the target image has a distance of 347200.09 and is the file image_0090.jpg
+The assignment have been completed succesfully and the image which is closest to the target image has a distance of 347200.09 and is the file image_0090.jpg
