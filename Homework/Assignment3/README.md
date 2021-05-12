@@ -18,20 +18,20 @@ To run scripts within this repository, I recommend cloning the repository and in
 
 $ git clone https://github.com/aksroa/Visual-portfolio.git
 
-$ cd cds-visual
+$ cd Visual-portfolio
 
-$ bash ./create_vision_venv.sh
+$ bash ./create_vision_venv.sh                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                           If some of the libraries is not installed properly you can install these manually by running the following in the terminal:                   
 
 
-If some of the libraries is not installed properly you can install these manually by running the following in the terminal:
-
-$ cd cds-visual
+$ cd Visual-portfolio
 
 $ source cv101/bin/activate
 
 $ pip install {module_name}
 
 $ deactivate
+
 
 Discussion of results:
 In relation to the results, the purpose of this assignment has been reached. However, when I used cv2.findcountours it seems that the function has found more contours than letters, and that it is a little bit to exact. This is something that could be improved to next time.
