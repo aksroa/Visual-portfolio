@@ -2,26 +2,26 @@ Self-designed project
 
 For the self-designes assignment the purpose is to take an image with text as input and do some optical character recognition and get the text on the image as output. The script is created so that it can run from the command line.
 
-Methods:
+Methods:                                                                                                                                      
 For the assignment I started by loading the image usisng cv2.imread. I then drew a blue rectangle of the region of interest which is the area with text. The image was then cropped by defining the centers of the image, and trying and failing. The image was the converted to grayscale for easier character recognition and then to binary colours. In addition this was inverted so that we get a white background with black text on it. Furthermore, some noisereduction was completed. Finally whitespaces was removed before pytesseract.image_to_string was used to extract all the text in the image. The text was the printed.
 
 Cloning repo and installing dependencies
 
-To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:
-$ git clone https://github.com/aksroa/Visual-portfolio.git
-$ cd Visual-portfolio
-$ bash ./create_vision_venv.sh
+To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:      
+$ git clone https://github.com/aksroa/Visual-portfolio.git                                                                                      
+$ cd Visual-portfolio                                                                                                                          
+$ bash ./create_vision_venv.sh                                                                                                                  
 
-To run the script from the command line type:
-$ cd Visual-portfolio
-$ source cv101/bin/activate
-$ cd Homework/Final_project/src
-$ cd python OCR.py
+To run the script from the command line type:                                                                                                  
+$ cd Visual-portfolio                                                                                                                        
+$ source cv101/bin/activate                                                                                                                  
+$ cd Homework/Final_project/src                                                                                                              
+$ cd python OCR.py                                                                                                                            
 
-If some of the libraries is not installed properly you can install these manually by running the following in the terminal:
-$ cd Visual-portfolio
-$ source cv101/bin/activate
-$ pip install {module_name}
+If some of the libraries are not installed properly you can install these manually by running the following in the terminal:                    
+$ cd Visual-portfolio                                                                                                                          
+$ source cv101/bin/activate                                                                                                                    
+$ pip install {module_name}                                                                                                                    
 $ deactivate
 
 Discussion of results:
