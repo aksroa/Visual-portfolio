@@ -6,11 +6,11 @@ This is my repository with assignments related to the Spring 2021 module Visual 
 
 The repository includes the predefined assignments 1, 2, 3 and an undefined assignment. The code can be found in the folder src, while the data is uploaded in the folder "Data". Output is in the outputfolder
 
-Column  	Description
-Data	A folder to be used for sample datasets that we use in class.
-src 	For Python scripts developed in class and as part of assignments.
-utils	Utility functions that are written by Ross, and which we have use in class.
-Output	Outputs from the assignment
+
+Data: A folder to be used for sample datasets that we use in class.                                                                            
+src: For Python scripts developed in class and as part of assignments.                                                                          
+utils: Utility functions that are written by Ross, and which we have use in class.                                                              
+Output: Outputs from the assignment
 
 
 To run scripts within this repository, I recommend cloning the repository and installing relevant dependencies in a virtual ennvironment:
